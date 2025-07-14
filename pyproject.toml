@@ -5,3 +5,4 @@ description = "針對台灣求職市場的開源多代理 AI 求職 co-pilot：�
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # guard against empty input
+# keep defaults in sync with the manifest
